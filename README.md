@@ -1,3 +1,5 @@
+# video
+https://drive.google.com/file/d/1TpvcS0aN1h74iDA94hDlxxgHAtfe_PwU/view?usp=share_link
 # airbnb-ML
 This dataset contains information on Airbnb listings in Berlin, including reviewer ratings and comments. With this data, you can analyze property characteristics, host characteristics, and guest experience in the German capit
 # Хуан Камило Суарес / Кевин Барреро 110-11
@@ -5,6 +7,8 @@ This dataset contains information on Airbnb listings in Berlin, including review
 Задача проекта — спрогнозировать Price комнаты на airbnb по определенным параметрам, таким как: район, цена, количество людей, включенных в цену, тип недвижимости и т.д.
 набор данных был извлечен из kaggle, вы можете найти его по следующей ссылке 
 https://www.kaggle.com/datasets/thedevastator/berlin-airbnb-ratings-how-hosts-measure-up
+# streamlit
+* https://kevinbarrero-airbnb-price-model-streamlit-price-hd6iny.streamlit.app/
 # описание столбца
 *   review_date: The date of the review. (Date)
 *   Reviewer Name: The name of the reviewer. (String)
@@ -48,5 +52,5 @@ https://www.kaggle.com/datasets/thedevastator/berlin-airbnb-ratings-how-hosts-me
 *   Value Rating: The listing's value rating. (Float)
 *   List item
 
-# streamlit
-* https://kevinbarrero-airbnb-price-model-streamlit-price-hd6iny.streamlit.app/
+# reults
+https://drive.google.com/drive/folders/1LCWXC0eErmrN6niIB6SkjdThLJ1NtkFN
