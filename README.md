@@ -52,5 +52,5 @@ https://www.kaggle.com/datasets/thedevastator/berlin-airbnb-ratings-how-hosts-me
 *   Value Rating: The listing's value rating. (Float)
 *   List item
 
-# reults
+# results
 https://drive.google.com/drive/folders/1LCWXC0eErmrN6niIB6SkjdThLJ1NtkFN
